@@ -4,7 +4,7 @@ Welcome to my GitHub repository! I'm Justin, a seasoned Full Stack Developer in 
 
 ## About Me
 
-With over 6 years of experience in the tech industry, I've honed my skills in a variety of programming languages and frameworks, primarily focusing on React.js, Node.js, and MySQL. My journey has taken me from a passionate engineer to a leadership role where I now lead a team, driving innovation and excellence in every project we undertake.
+With over 7 years of experience in the tech industry, I've honed my skills in a variety of programming languages and frameworks, primarily focusing on React.js, Node.js, and MySQL. My journey has taken me from a passionate engineer to a leadership role where I now lead a team, driving innovation and excellence in every project we undertake.
 
 
 ## Personal Projects
