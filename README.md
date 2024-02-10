@@ -12,8 +12,8 @@ With over 7 years of experience in the tech industry, I've honed my skills in a 
 *Here, you can list the specific projects you've worked on, with a brief description and links to the repositories, if they are public.*
 
 - **Power GPT**: This project is a fullstack chat application that leverages the power of openAI to provide a rich experience. It's built with React on the frontend and Node.js on the backend.
-- **Semantic Search with Vector database**: This project is a semantic search engine for a Vector Database, a database of the bible. This is coming soon.
-- **Portal Auth Template**: This is a template I use to quick start a portal or login project. its a full stack auth and portal system. It's built with React.js, Node,js, MySQL, JWT and Tailwind css.
+- **Semantic Search with Vector Database**: This project is a semantic search engine for a Vector Database, a database of the bible. This is coming soon.
+- **Portal Auth Template**: This is a template I use to quick start a portal or login project. its a full stack auth and portal system. It's built with React.js, Node.js, MySQL, JWT and Tailwind CSS.
 
 ## Skills
 
